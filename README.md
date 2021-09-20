@@ -83,12 +83,13 @@ __G-BIG HACKATHON__
 
 **🔵 보행 도로 결빙 위험 구역 선정 요인**<br>
 행정동별 보행취약계층 시설 비율, 행정동별 보행취약계층 인구 비율, 경사도
-<h5>
+
+<h4>
 
 **👣 보행취약계층 👣**<br>
 보행취약계층의 범위를 사고 발생 시 일반인에 비해 사고비율이 높은<br> 
 **어린이(12세 이하), 노인(65세 이상~), 장애인** 계층으로 지정
-</h5>
+</h4>
 <br>
 <h3> 
 
@@ -129,11 +130,11 @@ CLUSTERING(K-MEANS, HIERARCHICAL, DASACN, GMM)**
 </h3>
 
 **🔴 연희동_차량도로**<br><br>
-<img src="./IMAGE/분석결과1.png" width="400" height="200">
+<img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/%EB%B6%84%EC%84%9D%EA%B2%B0%EA%B3%BC1.PNG" width="400" height="200">
 <br><br><br>
 
 **🔵 연희동 보행도로**<br><br>
-<img src="./IMAGE/분석결과2.png" width="400" height="200"><br><br>
+<img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/%EB%B6%84%EC%84%9D%EA%B2%B0%EA%B3%BC2.PNG" width="400" height="200"><br><br>
 
 <h3> 
 
@@ -145,7 +146,7 @@ CLUSTERING(K-MEANS, HIERARCHICAL, DASACN, GMM)**
 **👉 선제적인 사고 예방 조치**(도로 열선으로 사전에 제설 작업을 진행하여 결빙으로 인한 사고 발생을 예방)<br><br>
 **👉 분석결과 민원 접수**(열선 도로 입지 선정 결과 중 ‘연희동’ 에서 선정된 도로를 분석 내용과 함께 서대문구에 민원 접수)
 <br><br>
-<img src="./IMAGE/활용방안1.png" width="400" height="300">
+<img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/%ED%99%9C%EC%9A%A9%EB%B0%A9%EC%95%881.PNG" width="400" height="300">
 
 
 
