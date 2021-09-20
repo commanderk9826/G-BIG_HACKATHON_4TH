@@ -1,7 +1,7 @@
 <div align="center">
  <h2> 
 
- ✨ __서울시 도로 열선 시스템 입지 선정__ ✨  
+ 🚗 __서울시 도로 열선 시스템 입지 선정__ 🚗  
  
  </h2>
 
@@ -9,10 +9,7 @@ __공공빅데이터__ 인턴십 실무형 프로젝트<br>
 2021.08.02 ~ 2021.08.19 17:00<br>
 서울2 38조<br>
 __이채훈, 이주천, 정성훈, 임세준, 이상민, 정선경__
-<h1>
-
-__G-BIG HACKATHON__
-</h1>
+<br><br>
 <img src="./IMAGE/수료증.png" width="300" height="450">
 
  <h3>
@@ -21,7 +18,7 @@ __G-BIG HACKATHON__
   </h3>
   <h2>
 
-  **데이턴십 해커톤 제 4회<br>우수상 수상작**
+  **G-BIG HACKATHON 4TH<br>우수상 수상작**
   </h2>
   </div>
   <br>
@@ -84,12 +81,10 @@ __G-BIG HACKATHON__
 **🔵 보행 도로 결빙 위험 구역 선정 요인**<br>
 행정동별 보행취약계층 시설 비율, 행정동별 보행취약계층 인구 비율, 경사도
 
-<h4>
-
 **👣 보행취약계층 👣**<br>
 보행취약계층의 범위를 사고 발생 시 일반인에 비해 사고비율이 높은<br> 
 **어린이(12세 이하), 노인(65세 이상~), 장애인** 계층으로 지정
-</h4>
+
 <br>
 <h3> 
 
@@ -103,15 +98,15 @@ CLUSTERING(K-MEANS, HIERARCHICAL, DASACN, GMM)**
 
 **🔴 차량도로 분석내용**<br>
 
-👉 실제 열선을 설치한 지역인 성북구, 성동구의 데이터를 기준으로 결빙사고 위험도를 예측하는 모델 개발<br>
-👉 특정 구를 기반으로 학습된 예측 모델을 바탕으로 서울시 전체 차량 도로에 적용<br>
+👉 실제 열선을 설치한 지역인 성북구, 성동구의 데이터를 기준으로 결빙사고 위험도를 예측하는 모델 개발<br><br>
+👉 특정 구를 기반으로 학습된 예측 모델을 바탕으로 서울시 전체 차량 도로에 적용<br><br>
 👉 도출한 도로별 결빙사고 위험도 수치를 서울시 전체 행정동에 변환하여 적용 
 
 
 <br> 
 
 **🔵 보행도로 분석내용**<br>
-👉 보행취약계층 인구 비율, 보행취약계층 시설 비율, 경사도 데이터를 활용해 클러스터링을 통한 보행취약 위험도 산출<br> 
+👉 보행취약계층 인구 비율, 보행취약계층 시설 비율, 경사도 데이터를 활용해 클러스터링을 통한 보행취약 위험도 산출<br><br> 
 👉 각 모델에서 선정된 행정동을 점수화 한 후, 최종 클러스터 점수 반환<br><br>
 
 <div align="center">
@@ -130,11 +125,11 @@ CLUSTERING(K-MEANS, HIERARCHICAL, DASACN, GMM)**
 </h3>
 
 **🔴 연희동_차량도로**<br><br>
-<img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/%EB%B6%84%EC%84%9D%EA%B2%B0%EA%B3%BC1.PNG" width="400" height="200">
-<br><br><br>
+<img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/%EB%B6%84%EC%84%9D%EA%B2%B0%EA%B3%BC1.PNG" width="350" height="200">
+<br><br>
 
 **🔵 연희동 보행도로**<br><br>
-<img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/%EB%B6%84%EC%84%9D%EA%B2%B0%EA%B3%BC2.PNG" width="400" height="200"><br><br>
+<img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/%EB%B6%84%EC%84%9D%EA%B2%B0%EA%B3%BC2.PNG" width="350" height="200"><br><br>
 
 <h3> 
 
@@ -146,7 +141,7 @@ CLUSTERING(K-MEANS, HIERARCHICAL, DASACN, GMM)**
 **👉 선제적인 사고 예방 조치**(도로 열선으로 사전에 제설 작업을 진행하여 결빙으로 인한 사고 발생을 예방)<br><br>
 **👉 분석결과 민원 접수**(열선 도로 입지 선정 결과 중 ‘연희동’ 에서 선정된 도로를 분석 내용과 함께 서대문구에 민원 접수)
 <br><br>
-<img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/%ED%99%9C%EC%9A%A9%EB%B0%A9%EC%95%881.PNG" width="400" height="300">
+<img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/%ED%99%9C%EC%9A%A9%EB%B0%A9%EC%95%881.PNG" width="450" height="300">
 
 
 
@@ -176,18 +171,18 @@ Estimation of service life for Expressway BRIDGE subjected to chloride ingress f
 
 <h3>
 
-**차량도로 열선 설치 입지 선정을 위한 프로세스(Case1)**
+**🔴 차량도로 열선 설치 입지 선정을 위한 프로세스([Case1.py](https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/DATA/CODE/Case1.py))**
 <br><br>
 <img src="./IMAGE/PROCESS1.png" width="400" height="250">
 <br>
 <br>
 
-**보행도로 열선 설치 입지 선정을 위한 프로세스(Case2)**<br><br>
+**🔵 보행도로 열선 설치 입지 선정을 위한 프로세스([Case2.py](https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/DATA/CODE/Case2.py))**<br><br>
 <img src="./IMAGE/PROCESS2.png" width="500" height="150">
 <br>
 <br>
 
-**최종도로 열선 설치 입지 선정을 위한 프로세스**<br><br>
+**💣 최종도로 열선 설치 입지 선정을 위한 프로세스**<br><br>
 <img src="./IMAGE/PROCESS3.png" width="500" height="300">
 </h3>
 <br>
@@ -198,14 +193,14 @@ Estimation of service life for Expressway BRIDGE subjected to chloride ingress f
 </h2>
 <h4> 자세한 분석 내용은 항목별 링크 내 파일들 참고<br><br>
 
-[📕 **OUT PUT**](https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/tree/main/OUTPUT)
+[📕 OUT PUT](https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/tree/main/OUTPUT)
 <br>
 
-[📗 **DATA**](https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/tree/main/DATA/FINAL%20DATA)
+[📗 DATA](https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/tree/main/DATA/FINAL%20DATA)
 <br>
 
 
-[📘 **CODE**](https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/tree/main/DATA/CODE)
+[📘 CODE](https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/tree/main/DATA/CODE)
 
 </h4>
 
