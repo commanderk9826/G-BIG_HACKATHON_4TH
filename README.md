@@ -20,18 +20,16 @@ __이채훈, 이주천, 정성훈, 임세준, 이상민, 정선경__
 
   **G-BIG HACKATHON 4TH<br>우수상 수상작**
   </h2>
-  </div>
+  
   <br>
- <div align="center">
-  <h2>
+ <h2>
 
- ⚒️ **TECH STACK** 
+⚒️ **TECH STACK** 
   </h2>
   <img src="./IMAGE/TECHSTACK.png" width="400" height="150">
-   <br>
-   <br>
-</div>
+ 
 <br><br><br><br>
+</div>
 <h2>
 
 📃 **SUMMARY**
