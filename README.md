@@ -25,18 +25,16 @@ __이채훈, 이주천, 정성훈, 임세준, 이상민, 정선경__
  <h2>
 
 ⚒️ **TECH STACK** 
-  
+  <br><br>
   <img src="./IMAGE/TECHSTACK.png" width="400" height="150">
  
-<br><br><br><br>
+<br><br><br>
 </div>
 <h2>
 
 📃 **SUMMARY**
-</h2>
 
-
-<h3> 
+<h3>
 
 **1. 주제 선정 배경**
 </h3>
