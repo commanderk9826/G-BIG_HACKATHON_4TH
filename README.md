@@ -12,20 +12,20 @@ __이채훈, 이주천, 정성훈, 임세준, 이상민, 정선경__
 <br><br>
 <img src="./IMAGE/수료증.png" width="300" height="450">
 
- <h3>
+ 
   데이터 기반 행정으로 <br> 
   국민의 삶의 질을 개선하라!
-  </h3>
+  
   <h2>
 
-  **G-BIG HACKATHON 4TH<br>우수상 수상작**
-  </h2>
+  G-BIG HACKATHON 4TH<br>**우수상 수상작**
+  
   
   <br>
  <h2>
 
 ⚒️ **TECH STACK** 
-  </h2>
+  
   <img src="./IMAGE/TECHSTACK.png" width="400" height="150">
  
 <br><br><br><br>
