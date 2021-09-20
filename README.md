@@ -29,7 +29,8 @@ __G-BIG HACKATHON__
 
  ⚒️ **TECH STACK** 
   </h2>
-  PYTHON, Q-GIS <-기술스택 이미지로 변경할거임!
+  <img src="./IMAGE/TECHSTACK.png" width="400" height="150">
+   <br>
    <br>
 </div>
 <div align="center">
@@ -38,29 +39,28 @@ __G-BIG HACKATHON__
 📃 **SUMMARY**
 </h2>
 </div> 
-내용 요약중
 <br>
 <div align="center">
 <h2>
 
-⚙️ **PROCESS_V**
+⚙️ **PROCESS**
 </h2>
 
 <h3>
 
-**1. 차량도로 열선 설치 입지 선정을 위한 프로세스**
-<br>
+**차량도로 열선 설치 입지 선정을 위한 프로세스(Case1)**
+<br><br>
 <img src="./IMAGE/PROCESS1.png" width="400" height="250">
 <br>
 <br>
 
-**2. 보행도로 열선 설치 입지 선정을 위한 프로세스**<br>
+**보행도로 열선 설치 입지 선정을 위한 프로세스(Case2)**<br><br>
 <img src="./IMAGE/PROCESS2.png" width="500" height="150">
 <br>
 <br>
 <br>
 
-**3. 최종도로 열선 설치 입지 선정을 위한 프로세스**<br>
+**최종도로 열선 설치 입지 선정을 위한 프로세스**<br><br>
 <img src="./IMAGE/PROCESS3.png" width="500" height="300">
 </h3>
 <br>
