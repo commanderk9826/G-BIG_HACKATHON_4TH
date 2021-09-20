@@ -151,10 +151,10 @@ CLUSTERING(K-MEANS, HIERARCHICAL, DASACN, GMM)**
 A feasibility study of self-heating concrete utilizing carbon nanofiber heating elements. Smart Materials and Structures, 18(12), 127001. 
 <br>[4] Lee, D.-H., Jeong, W.-S., Kim, H.-J., Kim, J. (2013). 
 Study about the evaluation of Freezing risk Based road surface of solar radiation. Journal of the Korea Institute for Structural Maintenance and Inspection, 17(5), 130–135. 
-<br>[5]정책브리핑. (2019, November 28). 2018 재해연보. 대한민국 정책브리핑.
+<br>[5] 정책브리핑. (2019, November 28). 2018 재해연보. 대한민국 정책브리핑.
 <br>[6] Lee, H., Jeon, C., Kim, J., Shim, J.; Jeon, I. (2015).
 Estimation of service life for Expressway BRIDGE subjected to chloride ingress from DE-ICER. Journal of The Korean Society of Disaster Information, 11(4), 548–555 
-<br>[7]한지은. (2020, December 4). 낙상사고 30% 이상 겨울에 발생..."주머니에 손 넣지 마세요". 연합뉴스
+<br>[7] 한지은. (2020, December 4). 낙상사고 30% 이상 겨울에 발생..."주머니에 손 넣지 마세요". 연합뉴스
 <br>[8] 도로명 및 건물번호 부여 업무처리요령
 
 <br><br><br><br>
