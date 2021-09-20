@@ -178,7 +178,7 @@ Estimation of service life for Expressway BRIDGE subjected to chloride ingress f
 <br>
 <br>
 
-**💣 최종도로 열선 설치 입지 선정을 위한 프로세스**<br><br>
+**💣 최종도로 열선 설치 입지 선정을 위한 프로세스 💣**<br><br>
 <img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/PROCESS3.png" width="500" height="300">
 </h3>
 <br>
