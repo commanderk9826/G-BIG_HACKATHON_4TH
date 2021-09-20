@@ -85,7 +85,7 @@ __G-BIG HACKATHON__
 행정동별 보행취약계층 시설 비율, 행정동별 보행취약계층 인구 비율, 경사도
 <h5>
 
-**👣보행취약계층👣**<br>
+**👣 보행취약계층 👣**<br>
 보행취약계층의 범위를 사고 발생 시 일반인에 비해 사고비율이 높은<br> 
 **어린이(12세 이하), 노인(65세 이상~), 장애인** 계층으로 지정
 </h5>
@@ -200,7 +200,7 @@ Estimation of service life for Expressway BRIDGE subjected to chloride ingress f
 [📕 **OUT PUT**](https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/tree/main/OUTPUT)
 <br>
 
-[📗 **DATA**](https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/tree/main/DATA/FINALDATA)
+[📗 **DATA**](https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/tree/main/DATA/FINAL%20DATA)
 <br>
 
 
