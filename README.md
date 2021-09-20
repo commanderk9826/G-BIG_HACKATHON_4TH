@@ -2,7 +2,6 @@
  <h2> 
 
  🚗 __서울시 도로 열선 시스템 입지 선정__ 🚗  
- 
  </h2>
 
 __공공빅데이터__ 인턴십 실무형 프로젝트<br>
@@ -10,7 +9,7 @@ __공공빅데이터__ 인턴십 실무형 프로젝트<br>
 서울2 38조<br>
 __이채훈, 이주천, 정성훈, 임세준, 이상민, 정선경__
 <br><br>
-<img src="./IMAGE/수료증.png" width="300" height="450">
+<img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/%EC%88%98%EB%A3%8C%EC%A6%9D.png" width="300" height="450">
 
  
   데이터 기반 행정으로 <br> 
@@ -26,9 +25,9 @@ __이채훈, 이주천, 정성훈, 임세준, 이상민, 정선경__
 
 ⚒️ **TECH STACK** 
   <br><br>
-  <img src="./IMAGE/TECHSTACK.png" width="400" height="150">
+  <img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/TECHSTACK.png" width="450" height="150">
  
-<br><br><br>
+<br><br>
 </div>
 <h2>
 
@@ -121,11 +120,11 @@ CLUSTERING(K-MEANS, HIERARCHICAL, DASACN, GMM)**
 </h3>
 
 **🔴 연희동_차량도로**<br><br>
-<img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/%EB%B6%84%EC%84%9D%EA%B2%B0%EA%B3%BC1.PNG" width="350" height="200">
+<img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/%EB%B6%84%EC%84%9D%EA%B2%B0%EA%B3%BC1.PNG" width="500" height="300">
 <br><br>
 
 **🔵 연희동 보행도로**<br><br>
-<img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/%EB%B6%84%EC%84%9D%EA%B2%B0%EA%B3%BC2.PNG" width="350" height="200"><br><br>
+<img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/%EB%B6%84%EC%84%9D%EA%B2%B0%EA%B3%BC2.PNG" width="500" height="300"><br><br>
 
 <h3> 
 
@@ -169,17 +168,17 @@ Estimation of service life for Expressway BRIDGE subjected to chloride ingress f
 
 **🔴 차량도로 열선 설치 입지 선정을 위한 프로세스([Case1.py](https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/DATA/CODE/Case1.py))**
 <br><br>
-<img src="./IMAGE/PROCESS1.png" width="400" height="250">
+<img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/PROCESS1.png" width="500" height="300">
 <br>
 <br>
 
 **🔵 보행도로 열선 설치 입지 선정을 위한 프로세스([Case2.py](https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/DATA/CODE/Case2.py))**<br><br>
-<img src="./IMAGE/PROCESS2.png" width="500" height="150">
+<img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/PROCESS2.png" width="500" height="150">
 <br>
 <br>
 
 **💣 최종도로 열선 설치 입지 선정을 위한 프로세스**<br><br>
-<img src="./IMAGE/PROCESS3.png" width="500" height="300">
+<img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/PROCESS3.png" width="500" height="300">
 </h3>
 <br>
 <br>
