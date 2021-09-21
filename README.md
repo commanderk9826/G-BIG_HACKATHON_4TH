@@ -124,7 +124,7 @@ CLUSTERING(K-MEANS, HIERARCHICAL, DASACN, GMM)**
 <img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/%EB%B6%84%EC%84%9D%EA%B2%B0%EA%B3%BC1.PNG" width="540" height="300">
 <br><br>
 
-**🔵 연희동 보행도로**<br><br>
+**🔵 연희동_보행도로**<br><br>
 <img src="https://github.com/commanderk9826/G-BIG_HACKATHON_4TH/blob/main/IMAGE/%EB%B6%84%EC%84%9D%EA%B2%B0%EA%B3%BC2.PNG" width="540" height="300"><br><br>
 
 <h3> 
